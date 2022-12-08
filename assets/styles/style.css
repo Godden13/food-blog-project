@@ -15,12 +15,12 @@ body {
   top: 0;
 }
 
-#head h4{
+#head h4 {
   padding: 0 10px;
 }
 
 #head h4:hover {
-  background-color:#a2dada;
+  background-color: #a2dada;
 }
 
 body,
@@ -146,8 +146,7 @@ hr {
 }
 
 #tag1 {
-  padding: 4px 9px 4px 9px;
-  opacity: 0;
+  padding: 4px 9px;
   background-color: #000;
   color: #fff;
   height: 10px;
